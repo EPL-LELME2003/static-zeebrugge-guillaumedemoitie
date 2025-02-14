@@ -1,8 +1,8 @@
 import pyomo.environ as pyo
-
+#Guillaume hello 
 # Create a Pyomo model
 model = pyo.ConcreteModel()
-#Guillaume 
+
 # Define model parameters
 ##########################################
 ############ CODE TO ADD HERE ############
